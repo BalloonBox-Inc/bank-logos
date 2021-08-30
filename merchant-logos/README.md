@@ -4,5 +4,4 @@ All merchant logos for Incomm gift cards are stored here. The logos will have th
 
 - Dimensions: 300x300px (or 300px width as the max and height adjusted accordingly)
 - Merchant names will all be in lower case
-- Spaces in merchant names are replaced by underscores
 - All punctuation (apostrophes, commas etc.) are removed from the name
